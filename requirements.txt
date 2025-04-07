@@ -1,0 +1,7 @@
+numpy>=1.19.2
+matplotlib>=3.3.2
+scikit-learn>=0.23.2
+tensorflow-macos>=2.4.0  # Apple Silicon specific
+tensorflow-metal>=0.5.0  # Apple Silicon GPU support
+Pillow>=8.0.0  # PIL fork
+joblib>=1.0.1
